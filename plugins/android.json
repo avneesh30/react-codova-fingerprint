@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.react.codova.fingerprint"
+    },
+    "cordova-plugin-android-fingerprint-auth": {
+      "PACKAGE_NAME": "com.react.codova.fingerprint"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.react.codova.fingerprint"
+    },
+    "cordova-plugin-fingerprint-login": {
+      "PACKAGE_NAME": "com.react.codova.fingerprint"
+    }
+  },
+  "dependent_plugins": {}
+}

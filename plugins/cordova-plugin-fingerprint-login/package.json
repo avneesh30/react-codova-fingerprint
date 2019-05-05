@@ -1,0 +1,65 @@
+{
+  "_from": "cordova-plugin-fingerprint-login",
+  "_id": "cordova-plugin-fingerprint-login@0.3.7",
+  "_inBundle": false,
+  "_integrity": "sha1-Q9i+oUdsplKQ6IEJ3C2cAru8yqI=",
+  "_location": "/cordova-plugin-fingerprint-login",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-fingerprint-login",
+    "name": "cordova-plugin-fingerprint-login",
+    "escapedName": "cordova-plugin-fingerprint-login",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-fingerprint-login/-/cordova-plugin-fingerprint-login-0.3.7.tgz",
+  "_shasum": "43d8bea1476ca65290e88109dc2d9c02bbbccaa2",
+  "_spec": "cordova-plugin-fingerprint-login",
+  "_where": "D:\\react-codova-fingerprint",
+  "author": {
+    "name": "yurish"
+  },
+  "bugs": {
+    "url": "https://github.com/yurish/cordova-plugin-fingerprint-login/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-fingerprint-login",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "\r\n    Scan the fingerprint of your user with the TouchID sensor and other Fingerprint sensor\r\n  ",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/yurish/cordova-plugin-fingerprint-login#readme",
+  "keywords": [
+    "TouchID",
+    "Touch ID",
+    "Fingerprint",
+    "Biometric",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-fingerprint-login",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurish/cordova-plugin-fingerprint-login.git"
+  },
+  "version": "0.3.7"
+}
